@@ -1,17 +1,17 @@
 const imageList = [{
         preview: 'images/ferrari_preview.jpg',
         source: 'images/ferrari.jpg',
-        alt: 'ferrari'
+        alt: 'Ferrari'
     },
     {
         preview: 'images/hundai_preview.jpg',
         source: 'images/hundai.jpg',
-        alt: 'hundai'
+        alt: 'Hundai'
     },
     {
         preview: 'images/mustang_preview.jpg',
         source: 'images/mustang.jpg',
-        alt: 'mustang'
+        alt: 'Mustang'
     },
     {
         preview: 'images/tesla_preview.jpg',
@@ -26,42 +26,42 @@ const imageList = [{
     {
         preview: 'images/landrover_preview.jpg',
         source: 'images/landrover.jpg',
-        alt: 'landrover'
+        alt: 'Landrover'
     },
     {
         preview: 'images/bugatti_preview.jpg',
         source: 'images/bugatti.jpg',
-        alt: 'bugatti'
+        alt: 'Bugatti'
     },
     {
         preview: 'images/mercedes_preview.jpg',
         source: 'images/mercedes.jpg',
-        alt: 'mercedes'
+        alt: 'Mercedes'
     },
     {
         preview: 'images/volvo_preview.jpg',
         source: 'images/volvo.jpg',
-        alt: 'volvo'
+        alt: 'Volvo'
     },
     {
         preview: 'images/suzuki_preview.jpg',
         source: 'images/suzuki.jpg',
-        alt: 'suzuki'
+        alt: 'Suzuki'
     },
     {
         preview: 'images/kia_preview.jpg',
         source: 'images/kia.jpg',
-        alt: 'kia'
+        alt: 'Kia'
     },
     {
         preview: 'images/cherry_preview.jpg',
         source: 'images/cherry.jpg',
-        alt: 'cherry'
+        alt: 'Cherry'
     },
     {
         preview: 'images/camaro_preview.jpg',
         source: 'images/camaro.jpg',
-        alt: 'camaro'
+        alt: 'Camaro'
     }
 ];
 

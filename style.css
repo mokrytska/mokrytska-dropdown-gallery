@@ -39,6 +39,8 @@ h1 {
 
 span {
     margin-left:5px;
+    font-weight: bold;
+    color: rgb(8, 8, 37);
 }
 
 .list {
